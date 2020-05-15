@@ -23,6 +23,7 @@
 
 ## Website Screenshots
 
-![home page](resources/home_page_responsive_design.png)
+![home page](resources/home_page.png)
 ![about page](resources/about_page.png)
 ![chart page](resources/chart_page.png)
+![home page responsive](resources/home_page_responsive_design.png)
